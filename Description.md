@@ -21,6 +21,6 @@ Additionally, Group E, which records the highest average scores, appears to bene
 
 ## Suggestion
 1. Create peer study groups or tutoring sessions where high-performing students can voluntarily help classmates in specific subjects.
-2. Improve the quality of free/reduced lunch programs and offer subsidized standard lunch for students showing academic improvement.
-3. Offer extra academic guidance and simple learning support sessions and hold basic parenting education programs or info-sharing sessions to help parents support their children’s learning at home
+2. Improve the quality of free/reduced lunch programs and offer subsidized standard lunch for students who couldn’t afford it.
+3. Offer simple learning support sessions and hold basic parenting education programs to help parents support their children’s learning at home.
 4. Offer free or low-cost test prep sessions and share online resources, especially targeting students who previously couldn’t access these courses.
